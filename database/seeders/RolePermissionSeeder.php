@@ -46,5 +46,14 @@ class RolePermissionSeeder extends Seeder
             'username' => "staff"
         ]);
         $staffUser->assignRole('staff'); // Menetapkan peran staff kepada pengguna staff
+
+        $studentRole = Role::firstOrCreate(['name' => 'student']);
+        $studentUser = User::create([
+            'name' => 'student',
+            'email' => 'student@gmail.com',
+            'password' => bcrypt('123'),
+            'username' => "student"
+        ]);
+        $studentUser->assignRole('student'); // Menetapkan peran student kepada pengguna student
     }
 }

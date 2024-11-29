@@ -1,0 +1,246 @@
+[33mcommit 90c6fd7e9d2e3de91f32823163dbe60903786489[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: 8654f5a d84fb33
+Author: zulfikrisadrah <muhzulfikri26@gmail.com>
+Date:   Fri Nov 29 22:50:33 2024 +0800
+
+    fix: insert data to user table
+
+[33mcommit 8654f5a4bdec3064662e0170d5e93e0118d26f23[m
+Author: zulfikrisadrah <muhzulfikri26@gmail.com>
+Date:   Fri Nov 29 22:48:49 2024 +0800
+
+    fix: insert data to user table
+
+[33mcommit d84fb33f88d9a6e6c80475b170f839131677e998[m
+Author: andi muh haikal lukman <113303662+itsdccal@users.noreply.github.com>
+Date:   Fri Nov 29 22:04:13 2024 +0800
+
+    feat: landing page controller
+
+[33mcommit ef20df7a43cb7c7c1dd554e7055cd6750ea1d071[m
+Author: andi muh haikal lukman <113303662+itsdccal@users.noreply.github.com>
+Date:   Fri Nov 29 22:03:53 2024 +0800
+
+    fix : controller model migrate
+
+[33mcommit 3b5810f2457b045575c11ca1eb4748e53d90da57[m
+Author: Mayko Raditya Wirawan <113871360+maykoRa@users.noreply.github.com>
+Date:   Fri Nov 29 21:24:06 2024 +0800
+
+    fix: news and event relations
+
+[33mcommit 10084541fba3784bf23f6d4be1f34e9c0eac3206[m
+Author: andi muh haikal lukman <113303662+itsdccal@users.noreply.github.com>
+Date:   Fri Nov 29 18:47:01 2024 +0800
+
+    fix: bug load
+
+[33mcommit b8264cbd036b5ea6ebbf406feda4756d501b4b38[m
+Author: dhilasdrh <nurfadhilah19@gmail.com>
+Date:   Fri Nov 29 12:03:31 2024 +0800
+
+    feat: users CRUD
+
+[33mcommit 9c31a2163aa5770d3aa2992ced84bff4178c053c[m
+Author: dhilasdrh <nurfadhilah19@gmail.com>
+Date:   Fri Nov 29 10:38:11 2024 +0800
+
+    fix: login API service
+
+[33mcommit 56fb46eb5681e4dd7d400475caacf5b46ff5848e[m
+Author: dhilasdrh <nurfadhilah19@gmail.com>
+Date:   Fri Nov 29 08:20:41 2024 +0800
+
+    fix: login using api service
+
+[33mcommit 666df47787fa1a7b8303e51e5ebd1d9a4932c602[m
+Author: Mayko Raditya Wirawan <113871360+maykoRa@users.noreply.github.com>
+Date:   Thu Nov 28 07:12:06 2024 +0800
+
+    feat: news CRUD
+
+[33mcommit d28b8fa62c3ad8af8caab14fcb9c71ac2c7a57a0[m
+Author: Mayko Raditya Wirawan <113871360+maykoRa@users.noreply.github.com>
+Date:   Thu Nov 28 05:54:55 2024 +0800
+
+    feat: event CRUD
+
+[33mcommit 9cfb219f56db37717b9757533aafceb770d47d50[m
+Author: andi muh haikal lukman <113303662+itsdccal@users.noreply.github.com>
+Date:   Thu Nov 28 01:45:09 2024 +0800
+
+    feat:add news and event
+
+[33mcommit 5d72119be7b1cceb1d502d81946ec6fbcf2ad89e[m
+Author: Mayko Raditya Wirawan <113871360+maykoRa@users.noreply.github.com>
+Date:   Thu Nov 28 00:40:13 2024 +0800
+
+    feat: programs CRUD
+
+[33mcommit 34c247f9f9f4e7f9953e09804644386d514bd36c[m
+Author: andi muh haikal lukman <113303662+itsdccal@users.noreply.github.com>
+Date:   Wed Nov 27 20:05:05 2024 +0800
+
+    fix: issue date
+
+[33mcommit 68b778d7ff02b71e72d6fd22cd3dec60b794c136[m
+Author: andi muh haikal lukman <113303662+itsdccal@users.noreply.github.com>
+Date:   Wed Nov 27 19:13:17 2024 +0800
+
+    feat: add mcr event
+
+[33mcommit 159554d940ec5342594bb480548fc19c6729577b[m
+Author: andi muh haikal lukman <113303662+itsdccal@users.noreply.github.com>
+Date:   Wed Nov 27 18:57:13 2024 +0800
+
+    fix: aos reload time
+
+[33mcommit 02c480a3a9e88929f50d8aa9afc1abdd38a1b9f9[m
+Author: andi muh haikal lukman <113303662+itsdccal@users.noreply.github.com>
+Date:   Wed Nov 27 18:26:48 2024 +0800
+
+    feat: admin CRUD
+
+[33mcommit d9daed5eb204f9b91755da2102666cdbc6f17f29[m
+Author: Mayko Raditya Wirawan <113871360+maykoRa@users.noreply.github.com>
+Date:   Wed Nov 27 17:57:33 2024 +0800
+
+    fix: fix database
+
+[33mcommit b653beba69b112a7a1e477eb0da59b17e9e798a8[m
+Author: andi muh haikal lukman <113303662+itsdccal@users.noreply.github.com>
+Date:   Tue Nov 26 19:37:30 2024 +0800
+
+    fix: permission
+
+[33mcommit 1bc08254972513d905ca610e5a81f4877fc8e7e3[m
+Author: andi muh haikal lukman <113303662+itsdccal@users.noreply.github.com>
+Date:   Tue Nov 26 16:44:09 2024 +0800
+
+    fix: middleware
+
+[33mcommit 2630703a8c2f0a38c340025f219a8178ca533e80[m
+Author: andi muh haikal lukman <113303662+itsdccal@users.noreply.github.com>
+Date:   Tue Nov 26 14:27:42 2024 +0800
+
+    fix: route
+
+[33mcommit 4a2f354379bd3105d91f1b31f60814d849576b97[m
+Author: andi muh haikal lukman <113303662+itsdccal@users.noreply.github.com>
+Date:   Tue Nov 26 14:27:31 2024 +0800
+
+    style: landing page and admin dashboard
+
+[33mcommit 23238d801d00580ede11b92fc785878ae7d3d144[m
+Author: andi muh haikal lukman <113303662+itsdccal@users.noreply.github.com>
+Date:   Tue Nov 26 14:26:27 2024 +0800
+
+    feat: add aos and animation
+
+[33mcommit 85f78624a9f1c70d685959eeae8da7ebed3033c3[m
+Author: andi muh haikal lukman <113303662+itsdccal@users.noreply.github.com>
+Date:   Tue Nov 26 14:24:39 2024 +0800
+
+    fix: controller
+
+[33mcommit 5b8a9a45e6c793aa150fa7561c1e91873cfb420b[m
+Author: andi muh haikal lukman <113303662+itsdccal@users.noreply.github.com>
+Date:   Sat Nov 23 22:33:14 2024 +0800
+
+    feat: add permission role
+
+[33mcommit d51f459ec5ad50c087cf235d82b1bc0cf5d653a2[m
+Author: andi muh haikal lukman <113303662+itsdccal@users.noreply.github.com>
+Date:   Wed Nov 20 10:44:58 2024 +0800
+
+    feat: add dashboard controller
+
+[33mcommit bcc29617f50695a2cb3fe9d93db68f09381d4969[m
+Author: Mayko Raditya Wirawan <113871360+maykoRa@users.noreply.github.com>
+Date:   Sat Nov 16 10:39:52 2024 +0800
+
+    fix: change staff table
+
+[33mcommit e63d0ae2cc39ca16cde848b4e5b8c31fa729b98f[m
+Author: andi muh haikal lukman <113303662+itsdccal@users.noreply.github.com>
+Date:   Sat Nov 16 10:35:10 2024 +0800
+
+    feat : student dashboard
+
+[33mcommit e08dab8c5bfc996c851ca594124360834a161bca[m
+Author: andi muh haikal lukman <113303662+itsdccal@users.noreply.github.com>
+Date:   Sat Nov 16 10:34:46 2024 +0800
+
+    feat: add staff dashboard
+
+[33mcommit 47f7d2db2b24c500fa0e24be5ef6fded7529277c[m
+Author: Mayko Raditya Wirawan <113871360+maykoRa@users.noreply.github.com>
+Date:   Wed Nov 13 19:00:54 2024 +0800
+
+    feat: add models
+
+[33mcommit 897d5813b8f3e9a9346478e00b123c9ae52cec9d[m
+Author: andi muh haikal lukman <113303662+itsdccal@users.noreply.github.com>
+Date:   Wed Nov 13 15:15:15 2024 +0800
+
+    feat: add dashboard admin
+
+[33mcommit e858a1612bc6838e1061019dcef20d405061a959[m
+Author: Mayko Raditya Wirawan <113871360+maykoRa@users.noreply.github.com>
+Date:   Wed Nov 13 15:07:40 2024 +0800
+
+    fix: fix database
+
+[33mcommit f24eb477fa46e9eae27689c3ce869089cc0fbe22[m
+Author: Mayko Raditya Wirawan <113871360+maykoRa@users.noreply.github.com>
+Date:   Tue Nov 12 23:23:02 2024 +0800
+
+    feat: add roles
+
+[33mcommit 9f01c99b35459f125d68762dac9d630838082355[m
+Author: andi muh haikal lukman <113303662+itsdccal@users.noreply.github.com>
+Date:   Thu Nov 7 01:34:01 2024 +0800
+
+    feat: update IE program
+
+[33mcommit 3c364df34c24332f3388b6ce6d2217cf7caeed88[m
+Author: andi muh haikal lukman <113303662+itsdccal@users.noreply.github.com>
+Date:   Thu Nov 7 01:27:57 2024 +0800
+
+    fea: update header
+
+[33mcommit 6a8354998b1d312a298d5c90c562081c08c3083b[m
+Author: andi muh haikal lukman <113303662+itsdccal@users.noreply.github.com>
+Date:   Thu Nov 7 01:24:45 2024 +0800
+
+    feat: add news and event page
+
+[33mcommit 58da1e0ca3207270a6d84a82c515918c27155cc1[m
+Author: andi muh haikal lukman <113303662+itsdccal@users.noreply.github.com>
+Date:   Thu Nov 7 01:24:27 2024 +0800
+
+    feat: studyprogram page
+
+[33mcommit 795b2a489d1d78d61112f144c1404445f8fa4364[m
+Author: andi muh haikal lukman <113303662+itsdccal@users.noreply.github.com>
+Date:   Thu Nov 7 01:24:03 2024 +0800
+
+    fix: database
+
+[33mcommit 305651b8a3faa9d2e2a8f2970fc4c00c45b31da2[m
+Merge: f98b284 749bf1c
+Author: Mayko Raditya Wirawan <113871360+maykoRa@users.noreply.github.com>
+Date:   Wed Nov 6 23:21:47 2024 +0800
+
+    Merge pull request #2 from itsdccal/m-branch
+    
+    add dummy seeder
+
+[33mcommit 749bf1c7b02303dfc4e0fc92f74dec1f7a9ce553[m[33m ([m[1;31morigin/m-branch[m[33m)[m
+Author: Mayko Raditya Wirawan <113871360+maykoRa@users.noreply.github.com>
+Date:   Wed Nov 6 23:20:46 2024 +0800
+
+    add dummy seeder
+
+[33mcommit f98b28428eb54aeb84472dcbba52dc8bd7519bce[m
+Author: andi muh haikal lukman <113303662+itsdccal@users.
